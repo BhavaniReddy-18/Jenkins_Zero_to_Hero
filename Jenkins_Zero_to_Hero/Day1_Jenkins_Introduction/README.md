@@ -13,29 +13,29 @@ In simple terms:Jenkins automates the repetitive steps involved in building and 
 # Example
 
 ## Without Jenkins:
-   Developer
-     ↓
-   Git commit
-     ↓
-   Developer manually builds application
-     ↓
-   Developer manually runs tests
-     ↓
-   Developer manually creates package
-     ↓
-   Developer manually deploys
+  * Developer
+      ↓
+  * Git commit
+      ↓
+  * Developer manually builds application
+      ↓
+  * Developer manually runs tests
+      ↓
+  * Developer manually creates package
+      ↓
+  * Developer manually deploys
 
 ## With Jenkins:
-   Developer
-     ↓
-   Git commit
-     ↓
-   Jenkins
-     ↓
-   Build
-     ↓
-   Test
-     ↓
-   Package
-     ↓
-   Deploy
+   * Developer
+      ↓
+   * Git commit
+      ↓
+   * Jenkins
+      ↓
+   * Build
+      ↓
+   * Test
+      ↓
+   * Package
+      ↓
+   * Deploy
